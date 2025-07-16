@@ -5,13 +5,28 @@
   <img src="https://komarev.com/ghpvc/?username=siddes-analyst&label=Profile%20views&color=0e75b6&style=flat" alt="siddes-analyst" />
 </p>
 
-- 🔭 I’m currently working on **Sales EDA Projects & Portfolio Building**
+🎓 I hold a B.Tech in Automobile Engineering (2014) and bring a diverse career background that blends creativity and analytics.
 
-- 🌱 I’m learning **Advanced Python, Data Modeling, and Dashboarding**
+🎨 With 4.5 years of experience as a 3D Artist, I developed a strong eye for detail, structure, and visual storytelling.
 
-- 📫 How to reach me: **youremail@example.com**
+💅 I later explored entrepreneurship through a 2-year journey in the nail art business, sharpening my client-facing, decision-making, and business operation skills.
 
-- 💡 Fun fact: **I love visualizing messy data into meaningful insights!**
+📊 Over the past year, I transitioned into Data Analytics — driven by my passion for uncovering insights from real-world data. I’ve completed an intensive Data Analysis course and built hands-on projects to apply my skills.
+
+---
+
+### 🔧 My Data Analysis Toolkit:
+
+- **Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn)
+- **BI Tools:** Power BI, Microsoft Excel (Pivot Tables, VLOOKUP, Charts)
+- **Database Tools:** MySQL, MongoDB
+- **Other:** Data Cleaning, Exploratory Data Analysis (EDA), KPI Reporting, Dashboard Design, Business Insight Extraction
+
+---
+
+💼 I'm actively building my portfolio — with a focus on **Sales Data Analysis**, **Trend Identification**, and **Performance Reporting**.
+
+📍 Looking for opportunities where I can combine my creative thinking and analytical mindset to solve business problems through data.
 
 ---
 
