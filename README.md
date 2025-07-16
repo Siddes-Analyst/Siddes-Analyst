@@ -44,9 +44,9 @@
 
 ---
 
-### 📘 Projects
+### 📘 Projects Link
 
-🔗 [All in One](https://github.com/Siddes-Analyst/All_GitHub_Project_And_GitHub_Pages_Link_In_One)  
+🔗 [](https://github.com/Siddes-Analyst/All_GitHub_Project_And_GitHub_Pages_Link_In_One)  
 📊 All Projects and Links in one Repository 
 
 ---
