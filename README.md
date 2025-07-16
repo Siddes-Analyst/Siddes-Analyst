@@ -13,6 +13,8 @@
 
 📊 Over the past year, I transitioned into Data Analytics — driven by my passion for uncovering insights from real-world data. I’ve completed an intensive Data Analysis course and built hands-on projects to apply my skills.
 
+📍 Looking for opportunities where I can combine my creative thinking and analytical mindset to solve business problems through data.
+
 ---
 
 ### 🔧 My Data Analysis Toolkit:
@@ -21,12 +23,6 @@
 - **BI Tools:** Power BI, Microsoft Excel (Pivot Tables, VLOOKUP, Charts)
 - **Database Tools:** MySQL, MongoDB
 - **Other:** Data Cleaning, Exploratory Data Analysis (EDA), KPI Reporting, Dashboard Design, Business Insight Extraction
-
----
-
-💼 I'm actively building my portfolio — with a focus on **Sales Data Analysis**, **Trend Identification**, and **Performance Reporting**.
-
-📍 Looking for opportunities where I can combine my creative thinking and analytical mindset to solve business problems through data.
 
 ---
 
@@ -68,3 +64,9 @@
 🔗 [Click Here to View All Projects and GitHub Pages](https://github.com/Siddes-Analyst/All_GitHub_Project_And_GitHub_Pages_Link_In_One) 
 
 ---
+
+## 📬 Contact
+**Siddeswaran K**
+- Email: [siddesanalyst@gmail.com]
+- Contact: [+91 9080526503]
+- GitHub: [https://github.com/Siddes-Analyst] 
