@@ -44,12 +44,9 @@
 
 ---
 
-### 📘 Featured Projects
+### 📘 Projects
 
-🔗 [Walmart Sales EDA](https://siddes-analyst.github.io/02_Walmart_Sales_EDA_Overall/)  
-📊 Exploratory analysis of Walmart sales: trends, regions, and product insights.
-
-🔗 [Walmart Null Handling Project](https://siddes-analyst.github.io/01_Walmart_Null_Values_Handling_Overall/)  
-🧹 Data Cleaning & Null Value Strategy with Pandas.
+🔗 [All in One](https://github.com/Siddes-Analyst/All_GitHub_Project_And_GitHub_Pages_Link_In_One)  
+📊 All Projects and Links in one Repository 
 
 ---
