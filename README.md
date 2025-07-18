@@ -65,14 +65,13 @@
 
 ### ✅ Completed Courses:
 
-| Course Title | Issued By | Certificate Link |
-|--------------|-----------|------------------|
-| **Python 101 for Data Science** | IBM / Learnvista | [🔗 View Certificate](https://courses.learnvista.skillsnetwork.site/certificates/634e141223db4839b95e947c609f5f62) |
-| **Data Science Tools** | IBM / Learnvista | [🔗 View Certificate](https://courses.learnvista.skillsnetwork.site/certificates/712300d917d74013ac90a0e2114d9f3f) |
-| **Data Science Methodology** | IBM / Learnvista | [🔗 View Certificate](https://courses.learnvista.skillsnetwork.site/certificates/2164d9d059ef4ccfa30fb35036d3901b) |
-| **Machine Learning with Python** | IBM / Learnvista | ✅ *(Awaiting upload/link if available)* |
-| **Data Analysis with Python** | IBM / Cognitive Class | [🔗 View Certificate](https://courses.cognitiveclass.ai/certificates/3379be4f86ac447c9e70af851260b696) |
-| **Data Visualization with Python** | IBM / Cognitive Class | [🔗 View Certificate](https://courses.cognitiveclass.ai/certificates/f960baf97de44ea69ae15acd80e43db3) | 
+| Course Title | Certificate Link |
+|--------------|------------------|
+| **Data Analysis with Python** | [🔗 View Certificate](https://courses.cognitiveclass.ai/certificates/3379be4f86ac447c9e70af851260b696) |
+| **Data Visualization with Python** | [🔗 View Certificate](https://courses.cognitiveclass.ai/certificates/f960baf97de44ea69ae15acd80e43db3) | 
+| **Python 101 for Data Science** | [🔗 View Certificate](https://courses.learnvista.skillsnetwork.site/certificates/634e141223db4839b95e947c609f5f62) |
+| **Data Science Tools** | [🔗 View Certificate](https://courses.learnvista.skillsnetwork.site/certificates/712300d917d74013ac90a0e2114d9f3f) |
+| **Data Science Methodology** | [🔗 View Certificate](https://courses.learnvista.skillsnetwork.site/certificates/2164d9d059ef4ccfa30fb35036d3901b) |
 
 ---
 
