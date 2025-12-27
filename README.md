@@ -24,41 +24,6 @@
 
 ---
 
-### 🛠️ Languages and Tools:
-
-<p align="left">
-  <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-
-  <!-- NumPy -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-
-  <!-- Pandas (white background version) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-
-  <!-- Matplotlib (light version) -->
-  <img src="https://www.vectorlogo.zone/logos/matplotlib/matplotlib-icon.svg" alt="Matplotlib" width="40" height="40"/>
-
-  <!-- Seaborn (custom light version workaround) -->
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="90" height="40"/>
-
-  <!-- MySQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-
-  <!-- MongoDB -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-
-  <!-- Power BI (brighter icon) -->
-  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="40" height="40"/>
-
-  <!-- Excel -->
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>
-</p>
-
----
-
----
-
 ## 🧾 IBM Certificates (2025)
 
 ### ✅ Completed Courses:
