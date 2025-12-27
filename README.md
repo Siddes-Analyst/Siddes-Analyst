@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siddeswaran K</h1>
 <h3 align="center">Aspiring Data Analyst | Python | Power BI | SQL | Excel</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=siddes-analyst&label=Profile%20views&color=0e75b6&style=flat" alt="siddes-analyst" />
-</p>
+
 
 🎓 I hold a B.Tech in Automobile Engineering (2014) and bring a diverse career background that blends creativity and analytics.
 
