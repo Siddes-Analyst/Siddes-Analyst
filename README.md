@@ -1,7 +1,5 @@
 ## 👋 Hi, Welcome To My Profile
 
----
-
 🎓 I hold a B.Tech in Automobile Engineering and bring a diverse career background that blends creativity and analytics.
 
 📊 Over the past year, I transitioned into Data Analytics — driven by my passion for uncovering insights from real-world data. I’ve completed an intensive Data Analysis course and built hands-on projects to apply my skills.
