@@ -16,11 +16,11 @@
 
 ## 🧠 My Current Tech Stack
 
-- **Languages:** Python | SQL | DAX
-- **Databases:** MySQL | PostgreSQL | SQL Server
-- **Tools & Platforms:** Power BI | Microsoft Excel | GitHub
-- **Data Processing:** NumPy | Pandas | ETL | Jupyter Notebooks
-- **Other Skills:** Data Modeling | Data Cleaning | Data Visualization | Exploratory Data Analysis
+- 💻 **Languages:** Python | SQL | DAX
+- 📂 **Databases:** MySQL | PostgreSQL | SQL Server
+- 💼 **Tools & Platforms:** Power BI | Microsoft Excel | GitHub
+- 🛠️ **Data Processing:** NumPy | Pandas | ETL | Jupyter Notebooks
+- 📦 **Other Skills:** Data Modeling | Data Cleaning | Data Visualization | Exploratory Data Analysis
 
 ---
 
