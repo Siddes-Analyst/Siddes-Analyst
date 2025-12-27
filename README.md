@@ -1,10 +1,6 @@
 ## 👋 Hi, Welcome To My Profile
 
-🎓 I hold a B.Tech in Automobile Engineering (2014) and bring a diverse career background that blends creativity and analytics.
-
-🎨 With 4.5 years of experience as a 3D Artist, I developed a strong eye for detail, structure, and visual storytelling.
-
-💅 I later explored entrepreneurship through a 2-year journey in the nail art business, sharpening my client-facing, decision-making, and business operation skills.
+🎓 I hold a B.Tech in Automobile Engineering and bring a diverse career background that blends creativity and analytics.
 
 📊 Over the past year, I transitioned into Data Analytics — driven by my passion for uncovering insights from real-world data. I’ve completed an intensive Data Analysis course and built hands-on projects to apply my skills.
 
