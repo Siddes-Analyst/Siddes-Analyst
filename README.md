@@ -1,4 +1,4 @@
-## 👋 Hi, Welcome to my Data Profile
+## 👋 Hi, Welcome To My Profile
 
 🎓 I hold a B.Tech in Automobile Engineering (2014) and bring a diverse career background that blends creativity and analytics.
 
