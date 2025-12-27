@@ -4,6 +4,16 @@
 
 ---
 
+## 💼 What I Do
+
+- 🧮 Advanced Excel - Using advanced formulas, pivot tables, and dashboards to analyze and summarize data efficiently.
+- 🖥️ Power BI – Building interactive, storytelling dashboards that turn insights into clear business visuals.
+- 🐬 SQL – Writing optimized queries to extract, clean, and analyze data from relational databases.
+- 🐍 Python – Performing data analysis and automation using libraries like Pandas, NumPy, and Matplotlib.
+- 🔍 Statistics – Applying statistical concepts to identify trends, patterns, and data-driven insights.
+
+---
+
 ### 🔧 My Data Analysis Toolkit:
 
 - **Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn)
