@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm Siddeswaran K</h1>
-<h3 align="center">Aspiring Data Analyst | Python | Power BI | SQL | Excel</h3>
-
-
+Hi 👋, I'm Siddeswaran K</h1>
 
 🎓 I hold a B.Tech in Automobile Engineering (2014) and bring a diverse career background that blends creativity and analytics.
 
