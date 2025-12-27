@@ -1,10 +1,7 @@
 ## 👋 Hi, Welcome To My Profile
 
-🎓 I hold a B.Tech in Automobile Engineering and bring a diverse career background that blends creativity and analytics.
-
-📊 Over the past year, I transitioned into Data Analytics — driven by my passion for uncovering insights from real-world data. I’ve completed an intensive Data Analysis course and built hands-on projects to apply my skills.
-
-📍 Looking for opportunities where I can combine my creative thinking and analytical mindset to solve business problems through data.
+🎯 I’m a Data Analyst with 1 year of experience working with SQL, Excel, Power BI, Python.
+📊 I enjoy turning raw data into clear Meaningful insights that help to support better business decisions.
 
 ---
 
