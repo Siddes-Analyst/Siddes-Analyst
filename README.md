@@ -14,12 +14,13 @@
 
 ---
 
-### 🔧 My Data Analysis Toolkit:
+## 🧠 My Current Tech Stack
 
-- **Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn)
-- **BI Tools:** Power BI, Microsoft Excel (Pivot Tables, VLOOKUP, Charts)
-- **Database Tools:** MySQL, MongoDB
-- **Other:** Data Cleaning, Exploratory Data Analysis (EDA), KPI Reporting, Dashboard Design, Business Insight Extraction
+- **Languages:** Python | SQL | DAX
+- **Databases:** MySQL | PostgreSQL | SQL Server
+- **Tools & Platforms:** Power BI | Microsoft Excel | GitHub
+- **Data Processing:** NumPy | Pandas | ETL | Jupyter Notebooks
+- **Other Skills:** Data Modeling | Data Cleaning | Data Visualization | Exploratory Data Analysis
 
 ---
 
