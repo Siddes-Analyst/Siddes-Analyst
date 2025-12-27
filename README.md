@@ -1,7 +1,7 @@
 ## 👋 Hi, Welcome To My Profile
 
-🎯 I’m a Data Analyst with 1 year of experience working with SQL, Excel, Power BI, Python.
-📊 I enjoy turning raw data into clear Meaningful insights that help to support better business decisions.
+- 🎯 I’m a Data Analyst with 1 year of experience working with SQL, Excel, Power BI, Python.
+- 📊 I enjoy turning raw data into clear Meaningful insights that help to support better business decisions.
 
 ---
 
