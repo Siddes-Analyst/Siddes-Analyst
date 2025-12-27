@@ -1,4 +1,4 @@
-Hi 👋, I'm Siddeswaran K</h1>
+👋 Hi, I'm Siddeswaran
 
 🎓 I hold a B.Tech in Automobile Engineering (2014) and bring a diverse career background that blends creativity and analytics.
 
